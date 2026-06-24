@@ -132,9 +132,3 @@ spotify-hit-song-analysis/
 ├── spotify_analysis.ipynb
 └── README.md
 ```
-
----
-
-## 👨‍💻 Author
-
-Bhavyaa
